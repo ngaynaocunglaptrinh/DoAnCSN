@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\controllers\\doantdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\controllers\\doantdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|C:\\Users\\Admin\\Desktop\\DOANTDqqq\\doantd\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E17DCC2-192B-4921-9A66-8E9BF79BF8D5}|DOANTD\\DOANTD.csproj|solutionrelative:doantd\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T23:41:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DOANTDController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Controllers\\DOANTDController.cs",
+              "RelativeDocumentMoniker": "DOANTD\\Controllers\\DOANTDController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Controllers\\DOANTDController.cs",
+              "RelativeToolTip": "DOANTD\\Controllers\\DOANTDController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:38:44.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DOANTD\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DOANTD\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:38:42.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "DOANTD\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Controllers\\JobController.cs",
+              "RelativeToolTip": "DOANTD\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:35:37.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DOANTD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DOANTD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:35:27.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "DOANTD\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "DOANTD\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T23:34:16.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "DOANTD\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "DOANTD\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T23:34:08.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "DOANTD\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "DOANTD\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T23:34:06.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "DOANTD\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "DOANTD\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T23:34:02.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DOANTD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DOANTD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAMcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T23:33:56.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "DOANTD\\Views\\Job\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DOANTDqqq\\DOANTD\\Views\\Job\\Index.cshtml",
+              "RelativeToolTip": "DOANTD\\Views\\Job\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T23:33:39.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

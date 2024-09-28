@@ -1,0 +1,84 @@
+﻿@model DOANTD.Entities.User
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Sử dụng layout cho trang
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update User</title>
+</head>
+<body>
+    <h4>User Update</h4>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-horizontal">
+            <hr />
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.Id) <!-- Sử dụng Id từ EntityBase -->
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Username, new { @class = "control-label col-md-2" })
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.Username, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.FirstName, new { @class = "control-label col-md-2" })
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.LastName, new { @class = "control-label col-md-2" })
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Password, new { @class = "control-label col-md-2" })
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", type = "password" } })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.AccountType, new { @class = "control-label col-md-2" })
+                <div class="col-md-8">
+                    @*@Html.DropDownListFor(model => model.AccountType,*@
+               @*//new SelectList(Enum.GetValues(typeof(AccountType)).Cast<AccountType>().Select(e => new { Value = (int)e, Text = e.ToString() }), "Value", "Text"),
+               //"Select Account Type",
+               //new { @class = "form-control" })
+               //@Html.ValidationMessageFor(model => model.AccountType, "", new { @class = "text-danger" })*@
+                </div>
+            </div>
+
+            <div class="row mb-6">
+                <div class="col d-flex justify-content-center">
+                    <div class="form-group">
+                        <div class="col-md-6">
+                            <input type="submit" value="Update" class="btn btn-success btn-sm" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <a href="@Url.Action("Index", "Users")" class="btn btn-warning btn-sm">Back</a>
+                </div>
+            </div>
+        </div>
+    }
+</body>
+</html>

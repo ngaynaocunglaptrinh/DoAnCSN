@@ -1,0 +1,57 @@
+﻿@model DOANTD.Entities.Job
+
+@{
+
+    ViewBag.Title = "User Details";
+    Layout = "~/Views/Shared/Adminds.cshtml";
+}
+<h2>Tạo Tin Mới</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Title, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.Title, new { @class = "form-control", placeholder = "Nhập tiêu đề công việc" })
+        @Html.ValidationMessageFor(m => m.Title, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Company, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.Company, new { @class = "form-control", placeholder = "Nhập tên công ty" })
+        @Html.ValidationMessageFor(m => m.Company, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Location, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.Location, new { @class = "form-control", placeholder = "Nhập địa điểm" })
+        @Html.ValidationMessageFor(m => m.Location, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.SalaryRange, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.SalaryRange, new { @class = "form-control", placeholder = "Nhập khoảng lương" })
+        @Html.ValidationMessageFor(m => m.SalaryRange, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Type, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.Type, new { @class = "form-control", placeholder = "Nhập loại công việc" })
+        @Html.ValidationMessageFor(m => m.Type, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Description, new { @class = "control-label" })
+        @Html.TextAreaFor(m => m.Description, new { @class = "form-control", placeholder = "Nhập mô tả công việc", rows = 5 })
+        @Html.ValidationMessageFor(m => m.Description, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Requirements, new { @class = "control-label" })
+        @Html.TextAreaFor(m => m.Requirements, new { @class = "form-control", placeholder = "Nhập yêu cầu công việc", rows = 5 })
+        @Html.ValidationMessageFor(m => m.Requirements, "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Tạo Tin</button>
+}
